@@ -1,1 +1,1 @@
-# Modern-pt
+A console-based Modern Periodic Table application built entirely in C, designed to provide quick access to element properties in a structured and interactive way. It allows users to view element details such as atomic number, symbol, group, period, and classification through a simple command-driven interface. The project demonstrates strong use of functions, file handling/array data management (if used), and clean modular programming practices. Ideal for beginners exploring chemistry with programming and for showcasing C fundamentals in a practical mini-project.
